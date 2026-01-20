@@ -38,3 +38,13 @@ Programa em Python que converte temperaturas entre Celsius e Fahrenheit.
 ▶ **Executar:**
 ```bash
 python projeto_03_conversor_temperatura/main.py
+```
+## Projeto 04 — Gerador de Senhas
+
+Programa em Python que gera senhas aleatórias com letras, números e caracteres especiais.
+
+📁 **Pasta:** `projeto_04_gerador_senhas`
+
+▶ **Executar:**
+```bash
+python projeto_04_gerador_senhas/main.py
