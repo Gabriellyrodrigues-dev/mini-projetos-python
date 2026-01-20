@@ -13,7 +13,6 @@ Calculadora em Python que realiza operações básicas:
 ```bash
 python projeto_01_calculadora/main.py
 
----
 
 ## Projeto 02 — Jogo de Adivinhação
 
