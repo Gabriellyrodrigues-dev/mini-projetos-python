@@ -48,3 +48,13 @@ Programa em Python que gera senhas aleatórias com letras, números e caracteres
 ▶ **Executar:**
 ```bash
 python projeto_04_gerador_senhas/main.py
+```
+## Projeto 05 — Lista de Tarefas
+
+Aplicação em Python no terminal para criar, listar, concluir e remover tarefas.
+
+📁 **Pasta:** `projeto_05_lista_tarefas`
+
+▶ **Executar:**
+```bash
+python projeto_05_lista_tarefas/main.py
