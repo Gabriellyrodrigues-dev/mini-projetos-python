@@ -17,7 +17,7 @@ Calculadora em Python que realiza operações básicas:
 
 📁 **Pasta:** `projeto_01_calculadora`
 
-▶ **Executar:**
+▶ Executar:
 ```bash
 python projeto_01_calculadora/main.py
 
