@@ -28,3 +28,13 @@ Jogo em Python onde o usuário tenta adivinhar um número aleatório entre 1 e 1
 ▶ **Executar:**
 ```bash
 python projeto_02_adivinhacao/main.py
+```
+## Projeto 03 — Conversor de Temperatura
+
+Programa em Python que converte temperaturas entre Celsius e Fahrenheit.
+
+📁 **Pasta:** `projeto_03_conversor_temperatura`
+
+▶ **Executar:**
+```bash
+python projeto_03_conversor_temperatura/main.py
