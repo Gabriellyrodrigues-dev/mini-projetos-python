@@ -10,17 +10,16 @@ Repositório com mini projetos em Python para praticar lógica de programação.
 
 Calculadora em Python que realiza operações básicas:
 
-- Soma
-- Subtração
-- Multiplicação
-- Divisão
+- Soma  
+- Subtração  
+- Multiplicação  
+- Divisão  
 
 📁 **Pasta:** `projeto_01_calculadora`
 
-▶ Executar:
+▶ **Executar:**
 ```bash
 python projeto_01_calculadora/main.py
-
 
 ---
 
@@ -28,8 +27,8 @@ python projeto_01_calculadora/main.py
 
 Jogo em Python onde o usuário tenta adivinhar um número aleatório entre 1 e 10.
 
-📁 Pasta: `projeto_02_adivinhacao`
+📁 **Pasta:** `projeto_02_adivinhacao`
 
-▶ Executar:
+▶ **Executar:**
 ```bash
 python projeto_02_adivinhacao/main.py
